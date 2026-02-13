@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Contact illustration</title>
+  <desc id="desc">Stylized phone and envelope icons with conversation bubbles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="130" y1="110" x2="760" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131d2f" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#d4451f" stop-opacity="0.28"/>
+    </linearGradient>
+    <linearGradient id="card" x1="190" y1="190" x2="710" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffdf7"/>
+      <stop offset="1" stop-color="#f4eadf"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="900" fill="#f6f0e5"/>
+  <circle cx="220" cy="170" r="170" fill="url(#bg)"/>
+  <circle cx="700" cy="740" r="220" fill="url(#bg)"/>
+
+  <rect x="160" y="170" width="580" height="560" rx="28" fill="url(#card)" stroke="#131d2f" stroke-opacity="0.2" stroke-width="4"/>
+
+  <rect x="230" y="250" width="440" height="210" rx="18" fill="#131d2f"/>
+  <path d="M280 304L450 392L620 304" stroke="#efb88e" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="280" y="354" width="150" height="14" rx="7" fill="#efb88e" fill-opacity="0.8"/>
+  <rect x="280" y="384" width="220" height="14" rx="7" fill="#efb88e" fill-opacity="0.65"/>
+
+  <rect x="230" y="495" width="206" height="168" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.15" stroke-width="4"/>
+  <path d="M300 535C320 515 355 518 370 540L390 570C404 586 425 594 442 594" stroke="#d4451f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="310" cy="615" r="18" fill="#d4451f" fill-opacity="0.25"/>
+  <circle cx="352" cy="615" r="18" fill="#d4451f" fill-opacity="0.25"/>
+
+  <rect x="464" y="495" width="206" height="168" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.15" stroke-width="4"/>
+  <rect x="498" y="536" width="138" height="14" rx="7" fill="#131d2f"/>
+  <rect x="498" y="566" width="106" height="12" rx="6" fill="#2b3c5b" fill-opacity="0.55"/>
+  <rect x="498" y="592" width="126" height="12" rx="6" fill="#2b3c5b" fill-opacity="0.4"/>
+</svg>

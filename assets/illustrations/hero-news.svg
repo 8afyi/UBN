@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial operations illustration</title>
+  <desc id="desc">Stylized newsroom desk with reports and headline ribbons.</desc>
+  <defs>
+    <linearGradient id="bg" x1="150" y1="120" x2="980" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d4451f" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#131d2f" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="card" x1="260" y1="180" x2="820" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffdf6"/>
+      <stop offset="1" stop-color="#f5ece1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="#f4ecdf"/>
+  <circle cx="180" cy="160" r="210" fill="url(#bg)"/>
+  <circle cx="1030" cy="760" r="260" fill="url(#bg)"/>
+
+  <rect x="190" y="180" width="810" height="540" rx="28" fill="url(#card)" stroke="#131d2f" stroke-opacity="0.2" stroke-width="5"/>
+  <rect x="250" y="250" width="430" height="300" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.18" stroke-width="4"/>
+
+  <rect x="290" y="300" width="350" height="22" rx="11" fill="#131d2f"/>
+  <rect x="290" y="344" width="278" height="14" rx="7" fill="#2b3c5b" fill-opacity="0.6"/>
+  <rect x="290" y="374" width="314" height="14" rx="7" fill="#2b3c5b" fill-opacity="0.5"/>
+  <rect x="290" y="404" width="255" height="14" rx="7" fill="#2b3c5b" fill-opacity="0.42"/>
+
+  <rect x="720" y="250" width="220" height="300" rx="18" fill="#131d2f"/>
+  <rect x="760" y="298" width="140" height="16" rx="8" fill="#efb88e"/>
+  <rect x="760" y="334" width="96" height="12" rx="6" fill="#efb88e" fill-opacity="0.7"/>
+  <rect x="760" y="362" width="124" height="12" rx="6" fill="#efb88e" fill-opacity="0.55"/>
+  <path d="M760 448L810 402L845 430L900 370" stroke="#d4451f" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="250" y="585" width="690" height="70" rx="14" fill="#fff" stroke="#131d2f" stroke-opacity="0.14" stroke-width="4"/>
+  <rect x="282" y="614" width="260" height="14" rx="7" fill="#d4451f"/>
+  <rect x="564" y="614" width="344" height="14" rx="7" fill="#2b3c5b" fill-opacity="0.5"/>
+
+  <path d="M183 146H322" stroke="#d4451f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M882 756H1041" stroke="#131d2f" stroke-width="14" stroke-linecap="round"/>
+</svg>

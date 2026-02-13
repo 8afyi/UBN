@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Media workflow board illustration</title>
+  <desc id="desc">A process board showing assess, align, and respond stages connected by arrows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="100" x2="1100" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131d2f" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#d4451f" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="180" y1="170" x2="1040" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffef8"/>
+      <stop offset="1" stop-color="#f6ede2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="#f7f2e8"/>
+  <circle cx="150" cy="760" r="240" fill="url(#bg)"/>
+  <circle cx="1040" cy="160" r="210" fill="url(#bg)"/>
+
+  <rect x="140" y="170" width="920" height="560" rx="30" fill="url(#panel)" stroke="#131d2f" stroke-opacity="0.2" stroke-width="5"/>
+
+  <rect x="220" y="280" width="230" height="240" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.15" stroke-width="4"/>
+  <rect x="485" y="280" width="230" height="240" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.15" stroke-width="4"/>
+  <rect x="750" y="280" width="230" height="240" rx="18" fill="#fff" stroke="#131d2f" stroke-opacity="0.15" stroke-width="4"/>
+
+  <rect x="260" y="324" width="150" height="14" rx="7" fill="#131d2f"/>
+  <rect x="525" y="324" width="150" height="14" rx="7" fill="#131d2f"/>
+  <rect x="790" y="324" width="150" height="14" rx="7" fill="#131d2f"/>
+
+  <rect x="260" y="356" width="110" height="12" rx="6" fill="#2b3c5b" fill-opacity="0.5"/>
+  <rect x="525" y="356" width="130" height="12" rx="6" fill="#2b3c5b" fill-opacity="0.5"/>
+  <rect x="790" y="356" width="126" height="12" rx="6" fill="#2b3c5b" fill-opacity="0.5"/>
+
+  <circle cx="335" cy="430" r="40" fill="#d4451f" fill-opacity="0.2"/>
+  <circle cx="600" cy="430" r="40" fill="#d4451f" fill-opacity="0.2"/>
+  <circle cx="865" cy="430" r="40" fill="#d4451f" fill-opacity="0.2"/>
+
+  <path d="M450 430H485" stroke="#d4451f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M715 430H750" stroke="#d4451f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M472 430L458 419M472 430L458 441" stroke="#d4451f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M737 430L723 419M737 430L723 441" stroke="#d4451f" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="220" y="570" width="760" height="80" rx="14" fill="#131d2f"/>
+  <rect x="258" y="603" width="180" height="12" rx="6" fill="#efb88e"/>
+  <rect x="470" y="603" width="170" height="12" rx="6" fill="#efb88e" fill-opacity="0.9"/>
+  <rect x="672" y="603" width="240" height="12" rx="6" fill="#efb88e" fill-opacity="0.8"/>
+</svg>
